@@ -1,0 +1,1 @@
+  select count(*) as totalcount from TRAININGDATABASE.DEMOSCHEMA.COVID_EPIDEMIOLOGY
